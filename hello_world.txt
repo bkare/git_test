@@ -1,0 +1,1 @@
+at the start of the odin project, let's create some text stuff and commit it to the git
